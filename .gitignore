@@ -1,2 +1,4 @@
 .database.properties
 src/main/resources/config/database.properties
+build/
+*.class
