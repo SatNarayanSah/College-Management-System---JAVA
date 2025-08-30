@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "com.cms.Main",
+        "projectName": "College-Management-System"
+    },
+    {
+        "type": "java",
+        "name": "Run College Management System",
+        "request": "launch",
+        "mainClass": "com.cms.Main",
+        "projectName": "cms-project"
+    }
+]
+}
